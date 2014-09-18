@@ -1,0 +1,18 @@
+# Site settings
+title: x.src
+email: sqdavid@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  bits and practices   ||   informática @ sqdavid
+  David J. Quiroga's blog on technology.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://xsrc.arcamo.org" # the base hostname & protocol for your site
+port: 8080
+
+twitter_username: sqdavid
+github_username:  sqdavid
+
+source: ./src
+destination: ./build
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Visual Studio 2013"
+date:   2013-08-26 19:33:33
+categories: en eventos
+tags: herramientas, windows
+---
+Hoy tuve la gran oportunidad de ir a conocer el Microsoft Technology Center aqui en São Paulo.
+Recibí una invitación para la presentación de **Visual Studio 2013**. No se trata del evento de lanzamiento, sino una presentación para mostrar algunas de las características que fueron incluidas en esta iteración de la herramienta.
+
+Visual Studio, como bien es sabido, no es solo una IDE, si no que a travez de sus diferentes versiones ha ido evolucionando para transformarse en una plataforma que integra todas las etapas del desarrollo de software a diferentes escalas.
+Existen muchos IDEs utilizados para diferentes lenguajes, sistemas operativos y tecnologias, pero ninguno se acerca a la calidad y belleza que posee esta herramienta. Y cada vez va creciendo más y más alimentandose de la gran comunidad de usuarios que ha cultivado en todo este tiempo.
+
+Elementos como **“Profiles”** para poder cargar con uno la configuración del ambiente, colores y en si todos los Settings a travez de la nuve, poder dar un vistazo _(peek)_ al codigo referenciado o usar la barra de desplazamiento como un mini mapa del archivo abierto, permiten al programador aprovechar mejor su tiempo y acelerar el proceso de desarrollo. Es verdad que muchas de estas funcionalidades ya se encontraban presentes en diferentes Extensions que uno (en este caso, yo) podia instalar (resharper, productivity power tools, etc) pero me agradó muchisimo el hecho de tenerlas incluidas en el paquete desde su instalación.
+Las herramientas de **ALM** (Application Lifecycle management) son realmente muy buenas y creo que estan ayudando a muchas personas y empresas a adoptar tecnicas de desarrollo agiles.
+Fuí cautivado por la herramienta conocida como **CodeLens**. Por ejemplo, imaginemos un método en nuestro codigo. CodeLens nos entrega la posibilidad de listar cambios hechos al método (changesets) a lo largo de la historia almacendada en el TFS, listar las referencias a nuestro método en toda nuestra solución, posibilitando navegar a cualquiera de estas referencias, e inclusive muestra los testes unitarios que cubren este pedazo de codigo, permitiendo ejecutar uno de ellos o todos, ahi, desde el punto donde se declaró el metodo, sin necesidad de movernos a otro punto en la herramienta o salir de ella. Lo triste es que CodeLens está disponible solamente en la versión _Ultimate_ de Visual Studio, que claro, es la mas cara. Esperemos que eventualmente la incluyan por lo menos en la _Premium_.
+Algo que en verdad me encantaria ver en VS2013 es la posibilidad de crear **“Perspectivas”** como Eclipse lo hace. Así podria tener una perspectiva para mi notebook, otra para mi desktop, e inclusive una otra para mi trabajo (dos monitores en modo retrato). Eso completaria el concepto de profiles.
+
+Con certeza bajaré el preview y me pondré a jugar con este por algunos dias.
+Tambien espero recibir una otra invitación para el evento oficial de lanzamiento del producto.
