@@ -15,5 +15,7 @@ github_username:  sqdavid
 source: ./src
 destination: ./build
 
+permalink: /:categories/:title/
+
 # Build settings
 markdown: kramdown

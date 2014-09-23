@@ -2,7 +2,7 @@
 layout: post
 title:  "vuelta en informatica"
 date:   2009-09-18 19:33:33
-categories: en x.noticias
+categories: es noticias
 ---
 Recientemente cambié de residencia.
 
