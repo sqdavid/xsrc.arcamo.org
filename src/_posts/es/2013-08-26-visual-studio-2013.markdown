@@ -2,7 +2,7 @@
 layout: post
 title:  "Visual Studio 2013"
 date:   2013-08-26 19:33:33
-categories: en eventos
+categories: es eventos
 tags: herramientas, windows
 ---
 Hoy tuve la gran oportunidad de ir a conocer el Microsoft Technology Center aqui en São Paulo.
